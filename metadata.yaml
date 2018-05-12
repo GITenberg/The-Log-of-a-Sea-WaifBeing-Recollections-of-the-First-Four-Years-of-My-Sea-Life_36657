@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '616'
     url: http://www.gutenberg.org/2009/agents/616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36657#The-Log-of-a-Sea-WaifBeing-Recollections-of-the-First-Four-Years-of-My-Sea-Life
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
